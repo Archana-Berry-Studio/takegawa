@@ -1,0 +1,9 @@
+takegawa
+takegawa.exe
+*.o
+*.a
+*.exe
+node_modules/
+takegawa_modules/
+takegawa.lock
+.tmp/
